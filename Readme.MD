@@ -1,6 +1,6 @@
 ## DevOps Interview question that I faced during my interview ##
 
-## Linux Interview Questions ##
+### Linux Interview Questions ###
 1	What is the difference between a process and a thread in Linux?
 2	What is the difference between a hard link and a soft link in Linux?
 3	How can you check the memory usage of a Linux system?
