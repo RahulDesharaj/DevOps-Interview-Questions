@@ -8,25 +8,43 @@
 3	How can you check the memory usage of a Linux system?
 
 4	How do you find the IP address of a Linux system?
+
 5	 What is the purpose of the "chmod" command in Linux?
+
 6	What is the purpose of the "grep" command?
+
 7	How do you change the password for a user in Linux?
+
 8	What is the purpose of the "cron" daemon in Linux?
+
 9	How do you schedule a cron job in Linux?
+
 10	Diskspace full issue?
+
 11	Running out of memory?
 12	How do you troubleshoot high CPU usage on a Linux server?
+
 13	Describe the boot process of a Linux system?
+
 14	You need to transfer a large file securely between two Linux servers. What tools or protocols would you use, and why?
+
 15	A user accidentally deleted an important file, and you need to recover it from the backup. Explain the steps you would take to restore the file.
+
 16	A user reports that they are unable to connect to a remote Linux server using SSH. How would you troubleshoot and resolve this connectivity issue?
+
 17	You need to find all files larger than 100MB in the /home directory and its subdirectories. How would you accomplish this task?
 18	What is inode?
 19	What is booting process in Linux?
+
 20	How do you clear the server if you continuously get Space not available
+
 21	What types of OS patching’s you have done
+
 22	What are the Linux commands you use daily?
+
 23	Linux file permissions types
+
+
 ## Shell script Interview Questions ##
 1.	What is CRONTAB?
 2.	How would you know the disk usage using the shell script commands?
