@@ -2,8 +2,11 @@
 
 ### Linux Interview Questions ###
 1	What is the difference between a process and a thread in Linux?
+
 2	What is the difference between a hard link and a soft link in Linux?
+
 3	How can you check the memory usage of a Linux system?
+
 4	How do you find the IP address of a Linux system?
 5	 What is the purpose of the "chmod" command in Linux?
 6	What is the purpose of the "grep" command?
