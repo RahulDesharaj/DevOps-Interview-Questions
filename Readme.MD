@@ -282,12 +282,19 @@
 
 ## Monitoring Interview Questions ##
 1	What are the different dashboards created in Grafana?
+
 2	What is the prometheus configuration file
+
 3	What is Prometheus, and how does it contribute to Kubernetes monitoring?
+
 4	Explain the architecture of Prometheus. What are the main components, and how do they interact?
+
 5	What is a Prometheus Exporter, and how does it enable the monitoring of third-party applications and services in Kubernetes?
+
 6	How do you create custom Prometheus alerts and alerting rules for Kubernetes monitoring? Provide an example alert rule and its configuration.
+
 7	What is Grafana, and how does it complement Prometheus for Kubernetes monitoring?
+
 8	Explain the concept of Grafana data sources and how they enable integration with various data providers, including Prometheus.
 
 ## AWS Interview Questions ##
